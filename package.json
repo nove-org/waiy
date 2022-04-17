@@ -1,0 +1,14 @@
+{
+    "name": "waiy",
+    "author": "NoveTeam",
+    "description": "📪 Modern, fresh and beautiful UI for your apps.",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/NoveTeam/waiy.git"
+    },
+    "license": "GNU GPL-3",
+    "bugs": {
+        "url": "https://github.com/NoveTeam/waiy/issues"
+    },
+    "homepage": "https://github.com/NoveTeam/waiy#readme"
+}                                                       
